@@ -1,5 +1,3 @@
 node_modules/
 *.log
-users.htpasswd
-password-generator.js
 memo.txt
